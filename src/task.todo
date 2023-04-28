@@ -1,0 +1,159 @@
+{
+  "todotree": {
+    "tree": [
+      {
+        "key": 1682569974503,
+        "children": [],
+        "todo": {
+          "content": "Create a form component that takes in user input and displays it in a table.",
+          "id": 1682569974503,
+          "level": "default",
+          "done": true,
+          "start": 1682569974503,
+          "focus": false,
+          "end": 1682575104571
+        }
+      },
+      {
+        "key": 1682569988173,
+        "children": [],
+        "todo": {
+          "content": "Implement a search functionality that filters data in a list based on user input.",
+          "id": 1682569988173,
+          "level": "default",
+          "done": true,
+          "start": 1682569988173,
+          "focus": false,
+          "end": 1682581211686
+        }
+      },
+      {
+        "key": 1682569999190,
+        "children": [],
+        "todo": {
+          "content": "Build a quiz component that displays questions and allows the user to select multiple answers.",
+          "id": 1682569999190,
+          "level": "default",
+          "done": false,
+          "start": 1682569999190
+        }
+      },
+      {
+        "key": 1682570006790,
+        "children": [],
+        "todo": {
+          "content": "Develop a file uploader component that allows users to upload images and displays them on the page.",
+          "id": 1682570006790,
+          "level": "default",
+          "done": true,
+          "start": 1682570006790,
+          "focus": false,
+          "end": 1682679974749
+        }
+      },
+      {
+        "key": 1682570013317,
+        "children": [],
+        "todo": {
+          "content": "Create a pagination component that breaks down a large list into smaller pages.",
+          "id": 1682570013317,
+          "level": "default",
+          "done": false,
+          "start": 1682570013317
+        }
+      },
+      {
+        "key": 1682570019494,
+        "children": [],
+        "todo": {
+          "content": "Implement a sorting functionality that allows users to sort data in a table based on different columns.",
+          "id": 1682570019494,
+          "level": "default",
+          "done": false,
+          "start": 1682570019494
+        }
+      },
+      {
+        "key": 1682570024758,
+        "children": [],
+        "todo": {
+          "content": "Develop a collapsible component that allows users to expand and collapse sections of content.",
+          "id": 1682570024758,
+          "level": "default",
+          "done": false,
+          "start": 1682570024758
+        }
+      },
+      {
+        "key": 1682570031832,
+        "children": [],
+        "todo": {
+          "content": "Build a dropdown component that allows users to select an option from a list.",
+          "id": 1682570031832,
+          "level": "default",
+          "done": false,
+          "start": 1682570031832
+        }
+      },
+      {
+        "key": 1682570038502,
+        "children": [],
+        "todo": {
+          "content": "Create a countdown timer component that displays a timer and counts down to a specific date or time.",
+          "id": 1682570038502,
+          "level": "default",
+          "done": false,
+          "start": 1682570038502
+        }
+      },
+      {
+        "key": 1682570043807,
+        "children": [],
+        "todo": {
+          "content": "Implement a drag and drop functionality that allows users to drag and drop items into different categories.",
+          "id": 1682570043807,
+          "level": "default",
+          "done": false,
+          "start": 1682570043807
+        }
+      },
+      {
+        "key": 1682570896550,
+        "children": [
+          {
+            "key": 1682570922909,
+            "children": [],
+            "todo": {
+              "content": "row in large screes, col in small/mobile screen",
+              "id": 1682570922909,
+              "level": "default",
+              "done": false,
+              "start": 1682570922909
+            }
+          }
+        ],
+        "todo": {
+          "content": "Create responsive table",
+          "id": 1682570896550,
+          "level": "default",
+          "done": false,
+          "start": 1682570896550
+        }
+      }
+    ],
+    "expandKeys": [
+      1682570896550
+    ],
+    "schema": "https://github.com/Saber2pr/vsc-ext-todolist/blob/master/src/api/type.ts#L3",
+    "add_mode": "bottom",
+    "virtual": false,
+    "showLine": false,
+    "playFontSize": 24,
+    "title": "task",
+    "autoSort": false,
+    "showEndTime": false,
+    "lang": "en",
+    "desc": "These are the components practice list.",
+    "version": "1682680036804"
+  }
+}

@@ -1,0 +1,150 @@
+export const songsData = [
+  {
+    id: 1,
+    title: 'Sugar',
+    singer: 'Maroon 5',
+  },
+  {
+    id: 2,
+    title: 'Shape of You',
+    singer: 'Ed Sheeran',
+  },
+  {
+    id: 3,
+    title: 'All of Me',
+    singer: 'John Legend',
+  },
+  {
+    id: 4,
+    title: 'Uptown Funk',
+    singer: 'Mark Ronson ft. Bruno Mars',
+  },
+  {
+    id: 5,
+    title: 'Thinking Out Loud',
+    singer: 'Ed Sheeran',
+  },
+  {
+    id: 6,
+    title: 'Hello',
+    singer: 'Adele',
+  },
+  {
+    id: 7,
+    title: 'Blinding Lights',
+    singer: 'The Weeknd',
+  },
+  {
+    id: 8,
+    title: 'Roar',
+    singer: 'Katy Perry',
+  },
+  {
+    id: 9,
+    title: 'Radioactive',
+    singer: 'Imagine Dragons',
+  },
+  {
+    id: 10,
+    title: 'Dark Horse',
+    singer: 'Katy Perry ft. Juicy J',
+  },
+  {
+    id: 11,
+    title: 'Someone Like You',
+    singer: 'Adele',
+  },
+  {
+    id: 12,
+    title: 'Despacito',
+    singer: 'Luis Fonsi ft. Daddy Yankee',
+  },
+  {
+    id: 13,
+    title: "Can't Stop the Feeling!",
+    singer: 'Justin Timberlake',
+  },
+  {
+    id: 14,
+    title: 'We Found Love',
+    singer: 'Rihanna ft. Calvin Harris',
+  },
+  {
+    id: 15,
+    title: 'Counting Stars',
+    singer: 'OneRepublic',
+  },
+  {
+    id: 16,
+    title: 'Firework',
+    singer: 'Katy Perry',
+  },
+  {
+    id: 17,
+    title: 'Closer',
+    singer: 'The Chainsmokers ft. Halsey',
+  },
+  {
+    id: 18,
+    title: 'Party Rock Anthem',
+    singer: 'LMFAO ft. Lauren Bennett, GoonRock',
+  },
+  {
+    id: 19,
+    title: 'Love Yourself',
+    singer: 'Justin Bieber',
+  },
+  {
+    id: 20,
+    title: 'Sorry',
+    singer: 'Justin Bieber',
+  },
+  {
+    id: 21,
+    title: 'Shallow',
+    singer: 'Lady Gaga, Bradley Cooper',
+  },
+  {
+    id: 22,
+    title: 'Wrecking Ball',
+    singer: 'Miley Cyrus',
+  },
+  {
+    id: 23,
+    title: 'Shape of My Heart',
+    singer: 'Sting',
+  },
+  {
+    id: 24,
+    title: 'Happy',
+    singer: 'someone',
+  },
+  { id: 25, title: 'Bones', singer: 'Imagine Dragons' },
+  { id: 26, title: 'Memories', singer: 'Maroon 5' },
+  { id: 27, title: 'Girls Like You', singer: 'Maroon 5 ft. Cardi B' },
+  {
+    id: 28,
+    title: 'Moves Like Jagger',
+    singer: 'Maroon 5 ft. Christina Aguilera',
+  },
+  { id: 29, title: 'One More Night', singer: 'Maroon 5' },
+  { id: 30, title: 'Payphone', singer: 'Maroon 5 ft. Wiz Khalifa' },
+  { id: 31, title: 'Maps', singer: 'Maroon 5' },
+  { id: 32, title: 'Animals', singer: 'Maroon 5' },
+  { id: 33, title: 'She Will Be Loved', singer: 'Maroon 5' },
+  { id: 34, title: "Don't Wanna Know", singer: 'Maroon 5 ft. Kendrick Lamar' },
+  { id: 35, title: 'What Lovers Do', singer: 'Maroon 5 ft. SZA' },
+  { id: 36, title: 'Misery', singer: 'Maroon 5' },
+  { id: 37, title: 'Sunday Morning', singer: 'Maroon 5' },
+  { id: 38, title: 'This Love', singer: 'Maroon 5' },
+  {
+    id: 39,
+    title: 'Beautiful Mistakes',
+    singer: 'Maroon 5 ft. Megan Thee Stallion',
+  },
+  {
+    id: 40,
+    title: 'Move On',
+    singer: 'Mike Posner',
+  },
+];
